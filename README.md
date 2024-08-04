@@ -1,5 +1,7 @@
 # SECURITY WALL OF FAME
 
-A list of companies/organizations who have publicly appreciated me securing their infrastructure
+> ### Description 
+A list of companies /organizations /contests where valid bugs have been found and been publicly appreciated.
 
+> ### Companies | Organizations | Contests
 - Blockscout (High) : https://docs.blockscout.com/for-developers/bug-bounty-program#security-hall-of-fame
